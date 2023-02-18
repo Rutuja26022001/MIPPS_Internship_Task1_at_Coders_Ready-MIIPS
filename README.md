@@ -8,7 +8,7 @@
 - 
 - You can use Python Tool to perform this analysis.
 
-1. About the dataset:
+### 1. About the dataset:
 
 Global Terrorism Database is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland.
 
@@ -38,7 +38,7 @@ gname: This field contains the name of the group that carried out the attack.
 
 weaptype1_txt: Names of weaptype1.
 
-2. Methodology:
+### 2. Methodology:
 
 In this project we are trying to trace hot zones of terrorism and other security issues with the help of Exploratory Data Analysis (EDA).
 
@@ -49,7 +49,7 @@ Around 71% of around 190k terror attacks occurred in the continents of Asia and 
 Also, 4 of the top 5 countries with the most terrorist attacks (Iraq, Pakistan, Afghanistan, India) belong to the continent of Asia (Colombia is in South America). Top 10 countries (Iraq, Pakistan, Afghanistan, India, Colombia, Philippines, Peru, United Kingdom, El Savador and Somalia) contributed to around 55% of the all the terror attacks that happened globally from 1970 to 2018, making them HOT ZONES according to Countries.
 
 
-3. Conclusion:
+### 3. Conclusion:
 Attacks were low during the 31st and high during the 15th and 1st. Other than these 3 days, every day has an equal contribution to global terrorism.
 
 
