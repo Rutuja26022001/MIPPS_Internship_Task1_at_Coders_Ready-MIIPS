@@ -5,7 +5,7 @@
 -Perform Exploratory Data Analysis on Database 'Global Terrorism'.
 
 - As a security or database analyst try to find out hot zones of terrorism.
-- 
+
 - You can use Python Tool to perform this analysis.
 
 ### 1. About the dataset:
