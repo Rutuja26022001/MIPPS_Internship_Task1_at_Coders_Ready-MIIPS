@@ -81,7 +81,6 @@ Iraq (Hot zone) has the highest number of terrorist attacks, way greater than al
 
 By reducing access to dangerous weapons,providing more security over countries, strengthening security across borders and by taking measures on increased immigration, Global Terrorism can be reduced to certain level.
 
-
-PPT PRESENTATION :
+Video presentation:
 https://drive.google.com/file/d/1UWqmcyVtODQUejVqpedmkp783f82q7JV/view?usp=sharing
 
